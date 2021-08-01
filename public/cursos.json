@@ -1,0 +1,43 @@
+[
+    {
+        "nome" : "Curso PHP",
+        "id" : 1
+    },
+    {
+        "nome" : "Curso HTML",
+        "id" : 2
+    },
+    {
+        "nome" : "Curso VUE.js",
+        "id" : 3
+    },
+    {
+        "nome" : "Curso JAVA ",
+        "id" : 4
+    },
+    {
+        "nome" : "Curso C#",
+        "id" : 5
+    },
+    {
+        "nome" : "Curso KOTLIN",
+        "id" : 6
+    },
+    {
+        "nome" : "Curso CSS",
+        "id" : 7
+    },
+    {
+        "nome" : "Curso MYSQL",
+        "id" : 8
+    },
+    {
+        "nome" : "Curso MongoDB",
+        "id" : 9
+    },
+    {
+        "nome" : "Curso Mobile",
+        "id" : 10
+    }
+
+]
